@@ -38,12 +38,8 @@ Além disso, o simulador:
 
 ## 🛠️ Tecnologias Utilizadas
 
-- [ ] HTML / CSS / JavaScript
-- [ ] Framework: (ex: React, Vue, etc.)
-- [ ] Biblioteca de Gráficos (ex: Chart.js, Recharts)
-- [ ] Backend (se aplicável): Node.js / Python / etc.
-
-> _(Preencha conforme o stack real da aplicação)_
+- [ ] Excel
+- [ ] Videos aulas Dio
 
 ---
 
