@@ -41,10 +41,6 @@ Além disso, o simulador:
 
 - [ ] Excel
 - [ ] Videos aulas Dio
-- [ ] Biblioteca de Gráficos (ex: Chart.js, Recharts)
-- [ ] Backend (se aplicável): Node.js / Python / etc.
-
-> _(Preencha conforme o stack real da aplicação)_
 
 ---
 
