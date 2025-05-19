@@ -1,4 +1,4 @@
-# SIMULADOR FINANCEIRO IMOBILIARIO
+## SIMULADOR FINANCEIRO IMOBILIARIO
 
 # Autor: David Bernardo
 
@@ -6,6 +6,6 @@
 
 # Versão: 1.0
 
-# Descrição: Este é um programa que simula um sistema de financiamento imobiliario , onde o usuario pode escolher entre diferentes opcoes de financiamento e calcular o valor mensal de pagamento.
+### Descrição: Este é um programa que simula um sistema de financiamento imobiliario , onde o usuario pode escolher entre diferentes opcoes de financiamento e calcular o valor mensal de pagamento.
 
-# O programa também permite que o usuario saiba o valor total de juros que ele ira pagar ao longo do tempo.
+### O programa também permite que o usuario saiba o valor total de juros que ele ira pagar ao longo do tempo.
