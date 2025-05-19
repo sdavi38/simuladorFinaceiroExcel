@@ -1,8 +1,8 @@
 # 🏢 Simulador de Investimento - Fundos Imobiliários
 
-**Autor:** David Bernardo
-**BootCamp:** Santander - Excel com Inteligência Artificial
-**Tech Educator at DIO:** Felipe Silva Aguiar
+- **Autor:** David Bernardo
+- **BootCamp:** Santander - Excel com Inteligência Artificial
+- **Tech Educator at DIO:** Felipe Silva Aguiar
 
 ---
 
