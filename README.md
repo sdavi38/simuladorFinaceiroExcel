@@ -45,7 +45,7 @@ Além disso, o simulador:
 
 ## 📸 Exemplo de Uso
 
-![exemplo do simulador]((https://i.imgur.com/demoFina_page-0001.jpg))
+![exemplo do simulador](./images/demoFina_page-0001.jpg)
 
 ---
 
