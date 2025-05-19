@@ -1,14 +1,20 @@
+<<<<<<< HEAD
+
 # 🏢 Simulador de Investimento - Fundos Imobiliários
 
-**Autor:** David Bernardo  
-**BootCamp:** Santander - Excel com Inteligência Artificial
-**Tech Educator at DIO:** Felipe Silva Aguiar
+=======
+
+## SIMULADOR FINANCEIRO IMOBILIARIO
+
+- **Autor:** David Bernardo
+- **BootCamp:** Santander - Excel com Inteligência Artificial
+- **Tech Educator at DIO:** Felipe Silva Aguiar
 
 ---
 
 ## 💡 Sobre a Ferramenta
 
-O **Simulador de Investimento - Fundos Imobiliários** é uma ferramenta desenvolvida para ajudar investidores (iniciantes ou experientes) a planejarem e entenderem o potencial de retorno de seus investimentos em FIIs (Fundos de Investimento Imobiliário).
+O **Simulador de Investimento - Fundos Imobiliários** é uma ferramenta desenvolvida no BootCamp "Santander - Excel com Inteligência Artificial" realizada pela Dio para ajudar investidores (iniciantes ou experientes) a planejarem e entenderem o potencial de retorno de seus investimentos em FIIs (Fundos de Investimento Imobiliário).
 
 A ferramenta responde perguntas como:
 
@@ -59,4 +65,17 @@ Além disso, o simulador:
 
 ```bash
 git clone https://github.com/sdavi38/simuladorFinaceiroExcel
+
 ```
+
+🧠 Contribuições
+Contribuições são bem-vindas! Se você tiver sugestões, correções ou ideias, fique à vontade para abrir uma issue ou enviar um pull request.
+
+📬 Contato
+Para dúvidas, sugestões ou colaborações, entre em contato com:
+
+📧 sdavi2840@gmail.com
+📱 (81) 9 86238858
+
+📄 Licença
+Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
