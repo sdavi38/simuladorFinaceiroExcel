@@ -54,5 +54,5 @@ Além disso, o simulador:
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seuusuario/simulador-fii.git
+git clone https://github.com/sdavi38/simuladorFinaceiroExcel
 ```
